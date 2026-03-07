@@ -1,0 +1,3 @@
+python main.py --run_all --dataset PROTEINS --seeds 0 1 2
+python main.py --run_all --dataset REDDIT-BINARY --seeds 0 1 2
+python main.py --run_all --dataset ogbg-molhiv --seeds 0 1 2
